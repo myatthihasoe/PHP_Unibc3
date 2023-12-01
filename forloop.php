@@ -14,8 +14,9 @@
     }
 
     //For each is not used array elements can be iterated as follows.
-    // for ($i = 0; $i < count($arr1)-1; $i++) {
+    // for ($i = 0; $i <= count($arr1) - 1; $i++) {
     //     echo $arr1[$i];
     // }
 
+    
 ?>

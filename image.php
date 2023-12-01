@@ -13,4 +13,5 @@ endwhile //end while loop
     echo "<img src = 'dragon.jfif' width='300px' height='100px' alt = 'images'";
     echo "<img src=\" dragon.jfif\" width= \"300px\" height=\"100px\" alt = 'images'";
 endfor;
+
 ?>

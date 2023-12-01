@@ -6,4 +6,8 @@
         $i++;
         //$j--;
     }
+
+    do{
+        echo "do while loop";
+    } while($i < $j);
 ?>
