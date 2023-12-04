@@ -1,5 +1,5 @@
 <?php
-    $age = 2;
+    $age = 20;
     if($age >= 18){
         echo "he is adult";
     }
@@ -9,7 +9,10 @@
     else {
         echo "he is young";
     }
-    switch($age){
+    echo"<br>";
+
+    $age1=32;
+    switch($age1){
         case 18;
         echo "he's adult";
         break;
